@@ -1,6 +1,9 @@
 = Consent-Aware HTTP: Declarative Boundaries for AI Usage
+image:https://img.shields.io/badge/license-PMPL--1.0-blue.svg[License,link="https://github.com/hyperpolymath/palimpsest-license"]
 
-image:https://img.shields.io/badge/License-MPL_2.0-blue.svg[MPL-2.0,link="https://opensource.org/licenses/MPL-2.0"]
+
+
+
 image:https://img.shields.io/badge/Philosophy-Palimpsest-purple.svg[Palimpsest,link="https://github.com/hyperpolymath/palimpsest-licence"]
 
 
@@ -14,7 +17,7 @@ v0.2.0, 2025-07-20
 :experimental:
 :imagesdir: assets/images
 :homepage: https://consent-aware-http.org
-:license-type: Dual: MIT + CC BY-SA 4.0 (Palimpsest-0.8 encouraged)
+:license-PMPL--1.0: Dual: PMPL-1.0 + PMPL-1.0 4.0 (Palimpsest-0.8 encouraged)
 :reproducible:
 
 [quote, Virginia Woolf, The Waves]
@@ -240,26 +243,26 @@ This project offers **three licensing options**:
 |===
 |License |Applies To |SPDX Identifier
 
-|**MIT** +
+|**PMPL-1.0** +
 (Permissive)
 |Code, specifications, reference implementations
-|`MIT`
+|`PMPL-1.0`
 
-|**GPL-3.0-or-later** +
+|**PMPL-1.0-or-later** +
 (Copyleft)
-|Code, specifications (alternative to MIT)
-|`GPL-3.0-or-later`
+|Code, specifications (alternative to PMPL-1.0)
+|`PMPL-1.0-or-later`
 
-|**CC BY-SA 4.0** +
+|**PMPL-1.0 4.0** +
 (ShareAlike)
 |Documentation, narrative, educational materials
-|`CC-BY-SA-4.0`
+|`PMPL-1.0-4.0`
 |===
 
 [IMPORTANT]
 .Palimpsest License (Philosophically Encouraged)
 ====
-We **philosophically encourage** dual-licensing under the **Palimpsest License v0.8** alongside MIT or GPL-3.0+.
+We **philosophically encourage** dual-licensing under the **Palimpsest License v0.8** alongside PMPL-1.0 or PMPL-1.0+.
 
 **Why Palimpsest?**
 
@@ -280,7 +283,7 @@ All source files include SPDX license identifiers:
 
 [source,javascript]
 ----
-// SPDX-License-Identifier: MIT OR GPL-3.0-or-later
+// SPDX-License-Identifier: PMPL-1.0 OR PMPL-1.0-or-later
 // SPDX-FileCopyrightText: 2025 Jonathan D.A. Jewell
 ----
 
@@ -288,11 +291,11 @@ Run `just audit-licence` to verify compliance.
 
 === License Files
 
-* link:LICENSE.txt[LICENSE.txt] - Primary license (MIT)
-* link:LICENSE-MIT.txt[LICENSE-MIT.txt] - MIT full text
-* link:LICENSE-GPL-3.0.txt[LICENSE-GPL-3.0.txt] - GPL-3.0 full text
+* link:LICENSE.txt[LICENSE.txt] - Primary license (PMPL-1.0)
+* link:LICENSE-PMPL-1.0.txt[LICENSE-PMPL-1.0.txt] - PMPL-1.0 full text
+* link:LICENSE-PMPL-1.0.txt[LICENSE-PMPL-1.0.txt] - PMPL-1.0 full text
 * link:LICENSE-PALIMPSEST.txt[LICENSE-PALIMPSEST.txt] - Palimpsest v0.8
-* link:LICENSE-CC-BY-SA-4.0.txt[LICENSE-CC-BY-SA-4.0.txt] - Creative Commons (docs)
+* link:LICENSE-PMPL-1.0-4.0.txt[LICENSE-PMPL-1.0-4.0.txt] - Creative Commons (docs)
 
 == Project Information
 
@@ -540,7 +543,7 @@ See link:RSR-COMPLIANCE.md[RSR-COMPLIANCE.md] for Rhodium Standard Repository co
 
 **Repository**: https://github.com/Hyperpolymath/consent-aware-http +
 **Website**: https://consent-aware-http.org +
-**License**: MIT OR GPL-3.0-or-later + CC BY-SA 4.0 (Palimpsest encouraged) +
+**License**: PMPL-1.0 OR PMPL-1.0-or-later + PMPL-1.0 4.0 (Palimpsest encouraged) +
 **Version**: 0.2.0 +
 **Last Updated**: 2025-07-20
 
