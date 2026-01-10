@@ -280,7 +280,7 @@ All source files include SPDX license identifiers:
 
 [source,javascript]
 ----
-// SPDX-License-Identifier: MIT OR GPL-3.0-or-later
+// SPDX-License-Identifier: PMPL-1.0 OR GPL-3.0-or-later
 // SPDX-FileCopyrightText: 2025 Jonathan D.A. Jewell
 ----
 
