@@ -4,7 +4,7 @@
 :sectnums:
 :icons: font
 
-// SPDX-License-Identifier: CC-BY-SA-4.0
+// SPDX-License-Identifier: PMPL-1.0-or-later
 // SPDX-FileCopyrightText: 2025 Jonathan D.A. Jewell
 
 [.lead]
